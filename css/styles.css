@@ -6,6 +6,9 @@
     color:gray
 }
 
-#section-1 {
-  
+.light-green {
+  background-color:lightgreen;
+}
+.light-blue {
+  background-color: lightblue;
 }
