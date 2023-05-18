@@ -17,3 +17,13 @@
   background-color: lightcoral;
   width: auto;
 }
+
+.light-gray {
+  background-color: rgb(253, 248, 248);
+  width: auto;
+}
+
+#top-section {
+  padding: 0px 0px;
+  text-align: center;
+}
