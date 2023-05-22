@@ -27,3 +27,11 @@
   padding: 0px 0px;
   text-align: center;
 }
+
+#Links-1 {
+  float: left;
+}
+
+#Links-2 {
+  float: right;
+}
