@@ -14,13 +14,21 @@
 }
 
 .light-red {
-  background-color: lightcoral;
+  background-color: rgb(255, 200, 200);
   width: auto;
+}
+
+.light-coral {
+  background-color: lightcoral;
 }
 
 .light-gray {
   background-color: rgb(253, 248, 248);
   width: auto;
+}
+
+.light-purple {
+  background-color: rgb(241, 127, 241);
 }
 
 #top-section {
@@ -34,4 +42,16 @@
 
 #Links-2 {
   float: right;
+}
+
+#Todays-featured-image {
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 1em;
+  display: block;
+}
+
+h9 {
+  font-weight: bold
 }
