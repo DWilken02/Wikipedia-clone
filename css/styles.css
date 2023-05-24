@@ -7,10 +7,18 @@
 }
 
 .light-green {
-  background-color:lightgreen;
+  background-color:rgb(216, 247, 216);
+}
+
+.green{
+  background-color: rgba(70, 211, 70, 0.836);
 }
 .light-blue {
-  background-color: lightblue;
+  background-color: rgb(216, 236, 243);
+}
+
+.blue {
+  background-color: rgb(130, 220, 250)
 }
 
 .light-red {
@@ -28,7 +36,11 @@
 }
 
 .light-purple {
-  background-color: rgb(241, 127, 241);
+  background-color: rgb(201, 165, 201);
+}
+
+.purple {
+  background-color:rgb(248, 232, 248);
 }
 
 #top-section {
