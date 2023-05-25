@@ -3,7 +3,7 @@
 }
 
 #sidebar-main-1 {
-    color:gray
+    color:gray;
 }
 
 .light-green {
@@ -18,7 +18,7 @@
 }
 
 .blue {
-  background-color: rgb(130, 220, 250)
+  background-color: rgb(130, 220, 250);
 }
 
 .light-red {
@@ -65,5 +65,29 @@
 }
 
 h9 {
-  font-weight: bold
+  font-weight: bold;
+}
+
+#Todays-featured-article {
+  float: left;
+  padding-right: 3%;
+  padding-top: 1%;
+}
+
+#In-the-news {
+  float: right;
+  padding-left: 3%;
+  padding-top: 1%;
+}
+
+#Did-you-know {
+  float: left;
+  padding-right: 3%;
+  padding-top: 1%;
+}
+
+#On-this-day {
+  float: right;
+  padding-left: 3%;
+  padding-top: 1%
 }
